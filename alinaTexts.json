@@ -1,0 +1,214 @@
+[
+  {
+    "_id": "64c71decbb124f7d59ea35bc",
+    "user_id": 1,
+    "created": "2023-07-31T02:35:24.114Z",
+    "username": "iamwintrow",
+    "email": "iamwintrow@gmail.com",
+    "password": "iamwintrow",
+    "contacts": [
+      {
+        "contact_user_id": 2,
+        "username": "alina.ranok",
+        "messages": [
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771118544,
+            "has_been_read": false,
+            "message_content": "Hello my beautiful world! I like you very much and I miss you. Today has been such an amazing day with you, as always, and truly I am falling more and more in love with you every single day. You're my everything Alina.",
+            "_id": "64c71eaef9a65572f37e16b7"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771590062,
+            "has_been_read": false,
+            "message_content": "Hello my love, yes, it's true. I am very much in love with you and someday I want to marry you. I don't want to not have you in my life even for a single day, truly.",
+            "_id": "64c7208654f675e54c07f7af"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690771908580,
+            "has_been_read": false,
+            "message_content": "My world, I like you very much and we will be together in Portugal very soon. I am very happy with you, and my eyes are big after reading the messages you sent me. I wish to marry you too!",
+            "_id": "64c721c44a0d636767384947"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690771935452,
+            "has_been_read": false,
+            "message_content": "When should we get married?",
+            "_id": "64c721df4a0d63676738496b"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771988691,
+            "has_been_read": false,
+            "message_content": "Let's have the wedding after you come to Canada. We can plan everything out together and then make sure that all of our family members can join.",
+            "_id": "64c722144a0d636767384981"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690773654532,
+            "has_been_read": false,
+            "message_content": "I'm so happy! This is amazing. I love it, and I love you!",
+            "_id": "64c728964a0d636767384a1b"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690773711409,
+            "has_been_read": false,
+            "message_content": "I love you too my precious and perfect whole world! I'm so excited and happy as well 🥰",
+            "_id": "64c728cf4a0d636767384a41"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690773810386,
+            "has_been_read": false,
+            "message_content": "Wow! This is it, we are finally actually going to get married 😍🥰💗💗💗💗💗💗",
+            "_id": "64c729324a0d636767384a84"
+          }
+        ],
+        "_id": "64c71e3cbb124f7d59ea35c5"
+      },
+      {
+        "contact_user_id": 3,
+        "username": "юля",
+        "messages": [],
+        "_id": "64c88380e8e8add5ae0b3654"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64c71df8bb124f7d59ea35bf",
+    "user_id": 2,
+    "created": "2023-07-31T02:35:36.262Z",
+    "username": "alina.ranok",
+    "email": "alina.ranok@gmail.com",
+    "password": "alina.ranok",
+    "contacts": [
+      {
+        "contact_user_id": 1,
+        "username": "iamwintrow",
+        "messages": [
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771118544,
+            "has_been_read": false,
+            "message_content": "Hello my beautiful world! I like you very much and I miss you. Today has been such an amazing day with you, as always, and truly I am falling more and more in love with you every single day. You're my everything Alina.",
+            "_id": "64c71eaef9a65572f37e16b7"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771590062,
+            "has_been_read": false,
+            "message_content": "Hello my love, yes, it's true. I am very much in love with you and someday I want to marry you. I don't want to not have you in my life even for a single day, truly.",
+            "_id": "64c7208654f675e54c07f7af"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690771908580,
+            "has_been_read": false,
+            "message_content": "My world, I like you very much and we will be together in Portugal very soon. I am very happy with you, and my eyes are big after reading the messages you sent me. I wish to marry you too!",
+            "_id": "64c721c44a0d636767384940"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690771935452,
+            "has_been_read": false,
+            "message_content": "When should we get married?",
+            "_id": "64c721df4a0d636767384962"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690771988691,
+            "has_been_read": false,
+            "message_content": "Let's have the wedding after you come to Canada. We can plan everything out together and then make sure that all of our family members can join.",
+            "_id": "64c722144a0d63676738498c"
+          },
+          {
+            "sender_id": 2,
+            "sender_username": "alina.ranok",
+            "recipient_id": 1,
+            "recipient_username": "iamwintrow",
+            "send_date": 1690773654532,
+            "has_been_read": false,
+            "message_content": "I'm so happy! This is amazing. I love it, and I love you!",
+            "_id": "64c728964a0d636767384a0e"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690773711409,
+            "has_been_read": false,
+            "message_content": "I love you too my precious and perfect whole world! I'm so excited and happy as well 🥰",
+            "_id": "64c728cf4a0d636767384a50"
+          },
+          {
+            "sender_id": 1,
+            "sender_username": "iamwintrow",
+            "recipient_id": 2,
+            "recipient_username": "alina.ranok",
+            "send_date": 1690773810386,
+            "has_been_read": false,
+            "message_content": "Wow! This is it, we are finally actually going to get married 😍🥰💗💗💗💗💗💗",
+            "_id": "64c729324a0d636767384a95"
+          }
+        ],
+        "_id": "64c71e9df9a65572f37e16ae"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64c8833ae8e8add5ae0b3633",
+    "user_id": 3,
+    "created": "2023-08-01T03:59:54.964Z",
+    "username": "юля",
+    "email": "юля@gmail.com",
+    "password": "юля",
+    "contacts": [],
+    "__v": 0
+  }
+]
